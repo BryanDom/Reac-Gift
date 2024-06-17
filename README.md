@@ -1,1 +1,4 @@
-# Proyecto de giftExpert realizado con React
+# GifExpertApp
+
+Este es mi repositorio del proyecto de GifExpertApp de React
+
